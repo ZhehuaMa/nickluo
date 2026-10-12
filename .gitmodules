@@ -1,0 +1,15 @@
+[submodule "apm_bridge"]
+	path = apm_bridge
+	url = git@github.com:nickluo/apm_bridge.git
+[submodule "drone_tracker"]
+	path = drone_tracker
+	url = git@github.com:nickluo/drone_tracker.git
+[submodule "drone_interceptor"]
+	path = drone_interceptor
+	url = git@github.com:nickluo/drone_interceptor.git
+[submodule "quadrotor_msgs"]
+	path = quadrotor_msgs
+	url = git@github.com:nickluo/quadrotor_msgs.git
+[submodule "rk_hdmi_osd"]
+	path = rk_hdmi_osd
+	url = git@github.com:nickluo/rk_hdmi_osd.git
